@@ -17,7 +17,7 @@ Pituus|*s*|metri|**m**|Metri on sellaisen matkan pituus, jonka valo kulkee tyhji
 Massa|*m*|kilogramma|**kg**|Kilogramma on yhtä suuri kuin kansainvälisen kilogramman prototyypin massa (1. ja 3. CGPM, 1889 ja 1901). Alun perin määritelmänä oli ”1 litra vettä on massaltaan kilogramman 4 °C:n lämpötilassa”, mutta kilogramman prototyyppi ei tarkalleen ottaen täytä tätä määritelmää. Massa on myös ainoa suure, joka määritellään kerrannaisyksikön – tuhannen gramman – perusteella.
 Aika|*t*|sekunti|**s**|Sekunti on 9 192 631 770 kertaa sellaisen säteilyn jaksonaika, joka vastaa cesium 133 -atomin siirtymää perustilan ylihienorakenteen kahden energiatason välillä.
 Sähkövirta|*I*|ampeeri|**A**|Ampeeri on sellainen ajallisesti muuttumaton sähkövirta, joka kulkiessaan kahdessa suorassa yhdensuuntaisessa, äärettömän pitkässä ja ohuessa johtimessa, joiden poikkileikkaus on ympyrä ja jotka ovat 1 metrin etäisyydellä toisistaan tyhjiössä, aiheuttaa johtimien välille 2·10^-7 newtonin voiman johtimen metriä kohti. 
-(Termodynaaminen) lämpötila|*T*|Kelvin|**K**|Kelvin on 1/273,16 veden kolmoispisteen termodynaamisesta lämpötilasta
+(Termodynaaminen) lämpötila|*T*|Kelvin|**K**|Kelvin on 1/273,16 veden kolmoispisteen termodynaamisesta lämpötilasta.
 Ainemäärä|*n*|mooli|**mol**|Mooli on sellaisen systeemin ainemäärä, joka sisältää yhtä monta keskenään samanlaista perusosasta kuin 0,012 kilogrammassa hiili 12:ta on atomeja. Perusosaset voivat olla atomeja, molekyylejä, ioneja, elektroneja, muita hiukkasia tai sellaisten hiukkasten määriteltyjä ryhmiä.
 Valovoima|*I*|kandela|**cd**|Kandela on sellaisen säteilijän valovoima, joka lähettää tiettyyn suuntaan monokromaattista 540·10^12 hertsin taajuista säteilyä ja jonka säteilyintensiteetti tähän suuntaan on 1/683 wattia steradiaania kohti. 
 
@@ -26,8 +26,8 @@ Osa perussuureista on määritelty muiden perussuureiden avulla, esim. metri on 
 ![Kuva SI-juiduista](https://upload.wikimedia.org/wikipedia/commons/c/c8/SI_base_unit.svg)
 <!---Kuvan tekijä: http://en.wikipedia.org/wiki/User:Dono-->
 
-
 #Mittaamisesta
+Luonnonilmiöitä tutkittaessa käytetään erilaisia tarkoitusta varten tehtyjä mittavälineitä kuten viivoittimia, vaakoja, kelloja ja lämpömittareita. 
 
 ##virhe ja sen merkitys tulokseen
 
