@@ -10,6 +10,9 @@
 
 2. Laske ilmanvastus, jos 80 kiloinen laskuvarjohyppääjä varusteineen putoaa varjo auki tasaisella nopeudella 5 m/s ?      
   * RATKAISU Ilmanvastus 80*9,81 N ylöspäin vaikuttava voima. Koska tasaisella nopeudella painovoiman ja ilmanvastuksen oltava yhtä suuria ja vastakkaissuuntaisia.
-   
-   
-   
+
+
+3. Laske tuntematon 
+ * Määritä kiihtyvyys a , jolla kappale kiihtyy jos se on vaakasuoralla kitkattomalla alustalla ja sen massa = 2 kg, johon vaikuttaa voimat 13 N vasemmalle ja 10 N oikealle.
+ * Määritä ilmanvastuksen voima, joka vaikuttaa sadepisaraan joka on 0,05 ml ja putoaa tasaisella nopeudella.
+ * Kappale liikkuu tasaisella nopeudella suoraa pitkin ja siihen vaikuttaa kaksi voimaa toinen on 30 asteen kulmassa ja kohti kappaletta. Mikä on toisen voiman suuruus ja suunta. Piirrä 
