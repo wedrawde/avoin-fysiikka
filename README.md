@@ -25,7 +25,7 @@ Kirjoita listan kohdan perään nimesi, mikäli aijot tehdä jotain kohtaa aktii
 - [ ] Kapple 1  *happosade*
 - [ ] Kapple 2
 - [ ] Kapple 3
-- [ ] Kapple 4
+- [ ] Kapple 4  *Edward*
 - [ ] Kapple 5
 - [ ] Kapple 6
 
