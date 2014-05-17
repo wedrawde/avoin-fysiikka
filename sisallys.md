@@ -38,7 +38,7 @@ fysiikan merkitys historian eri vaiheissa ja nykyaikana
 
 **XKCD 435**
 
-Sanan etymologiasta. Diibadaabaa kreikan herroista ja atomista. Kokeellinen fysika, luannon mallintaminen. Matematiikka fysiikan kieli. Tutkimuksen pohjana kokeet, kokeiden pohjana teoria. Hypoteesi->teoria->kokeet->repeat until feel. Tutkimus avointa - yleensä vain toisille tieteentekijöille, pohjaa edelliselle työlle. Seurauksena sovelluksia, tietotekniikka/energiatekniikka/jne.
+Sanan etymologiasta. Diibadaabaa kreikan herroista ja atomista. Kokeellinen fysika, luannon mallintaminen. Matematiikka fysiikan kieli. Tutkimuksen pohjana kokeet, kokeiden pohjana teoria. Havainto->hypoteesi->teoria->kokeet->repeat until feel. Tutkimus avointa - yleensä vain toisille tieteentekijöille, pohjaa edelliselle työlle. Seurauksena sovelluksia, tietotekniikka/energiatekniikka/jne.
 
 ###2. Historiaa
 (Laitetaan loppuun henkilökuvauksia?)
@@ -46,7 +46,7 @@ Sanan etymologiasta. Diibadaabaa kreikan herroista ja atomista. Kokeellinen fysi
 * Esifysikaalinen
  * filosofiaa, mielipiteitä ja pohdiskelua
  * tyyppejä (varhaisia): Thales, Aristoteles, Arkhimedes, Pythagoras, Platon
- * keksintöjä (varhaisimmat): katapultit, vivut, pyörästöt, metallit, lasi
+ * keksintöjä (varhaisimmat): katapultit, vivut, pyörästöt, metallit, lasi, atomi/atomos
 * Klassinen fysiikka
  * tieteellinen menetelmä
  * keksintöjä (myöhäisempiä): linssit, kompassi, höyrykoneet/vesi- ja tuulimyllyt, ...
