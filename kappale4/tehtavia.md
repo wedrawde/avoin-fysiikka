@@ -9,7 +9,7 @@
   * Piirrä vektorit G plus N niin että päättyvät samaan pisteeseen ja G+S1+S2 tasakylkiseksi vektorikolmioksi.
 
 2. Laske ilmanvastus, jos 80 kiloinen laskuvarjohyppääjä varusteineen putoaa varjo auki tasaisella nopeudella 5 m/s ?      
-  * RATKAISU Koska tasaisella nopeudella painovoima ja ilmanvastus oltava yhtä suuria ja vastakkaissuuntaisia.
+  * RATKAISU Ilmanvastus 80*9,81 N ylöspäin vaikuttava voima. Koska tasaisella nopeudella painovoiman ja ilmanvastuksen oltava yhtä suuria ja vastakkaissuuntaisia.
    
    
    
