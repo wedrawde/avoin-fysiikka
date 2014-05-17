@@ -1,11 +1,10 @@
 #Suureet ja yksiköt
 
 ##Perus- ja johdannaissuureet
-Perussuureet ovat fysiikassa ne asioiden ja esineiden mitattavat ominaisuudet, joita ei voida johtaa muista suureista. Niitä on seitsemän ja ne ovat pituus *s*, massa *m*, aika *t*, sähkövirta *I*, lämpötila *T*, ainemäärä *n* sekä valovoima *l*. Johdannaissuureita voidaan muodostaa loputtomasti, kuten nopeus *v*, tiheys *ρ*, voima *F* ja valaistusvoimakkuus *lx*.
+Perussuureet ovat fysiikassa ne asioiden ja esineiden mitattavat ominaisuudet, joita ei voida johtaa muista suureista. Niitä on seitsemän ja ne ovat pituus *s*, massa *m*, aika *t*, sähkövirta *I*, lämpötila *T*, ainemäärä *n* sekä valovoima *l*. Johdannaissuureita voidaan muodostaa loputtomasti, esimerkiksi nopeus *v*, tiheys *ρ*, voima *F* ja valaistusvoimakkuus *lx* ovat johdannaissuureita.
 
 ##SI-yksiköt ja tärkeimmät johdannaiset (N, J, ...)
-Fysiikassa ominaisuuksien suuruuksista puhuttaessa käytetään SI-järjestelmän yksiköitä. Nämä ovat ( Perusyksiköt ovat ne yksiköt, joita ei voida esittää muiden yksiköiden avulla.
-
+Fysiikassa ominaisuuksien suuruuksia mitattaessa käytetään kansainvälisen yksikköjärjestelmän eli SI-järjestelmän mukaisia yksiköitä. Perusyksiköt ovat ne yksiköt joita ei voida ilmoittaa muiden yksikköjen avulla ja ne on ilmoitettu oheisessa taulukossa. Tärkeitä johdannaisyksiköitä ovat esimerkiksi voiman yksikkö Newton, lyhenne N, joka voidaan ilmoittaa muodossa Kg*m/s² 
 
 ##7 perussuuretta, tärkeimmät johdannaiset (nopeus, voima, teho...)
 ####SI-yksiköt
