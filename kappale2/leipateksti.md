@@ -1,6 +1,6 @@
 #Yksiköt ja suureet
 
-##SI yksiköt ja tärkeimmät johdannaiset (N, J, ...)
+##SI-yksiköt ja tärkeimmät johdannaiset (N, J, ...)
 Yksiköt jaetaan SI-järjestelmän perusyksiköihin, sekä niistä johdettuihin johdannaisyksikköihin.
 
 ##7 perussuuretta, tärkeimmät johdannaiset (nopeus, voima, teho...)
