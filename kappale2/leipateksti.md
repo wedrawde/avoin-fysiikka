@@ -27,7 +27,7 @@ Osa perussuureista on määritelty muiden perussuureiden avulla, esim. metri on 
 <!---Kuvan tekijä: http://en.wikipedia.org/wiki/User:Dono-->
 
 #Mittaamisesta
-Luonnonilmiöitä tutkittaessa käytetään erilaisia tarkoitusta varten tehtyjä mittavälineitä kuten viivoittimia, vaakoja, kelloja ja lämpömittareita. 
+Luonnonilmiöitä tutkittaessa käytetään erilaisia tarkoitusta varten tehtyjä mittavälineitä kuten viivoittimia, vaakoja, kelloja ja lämpömittareita. Suureita mitattaessa on otettava huomioon että mittaustarkkuus on riittävä, jotta saadaan riittävän tarkka mittaustulos. Esimerkiksi vaaoissa
 
 ##virhe ja sen merkitys tulokseen
 
