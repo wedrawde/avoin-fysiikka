@@ -29,7 +29,7 @@ Kirjoita listan kohdan perään nimesi, mikäli aijot tehdä jotain kohtaa aktii
 - [ ] Kapple 5
 - [ ] Kapple 6
 
-#Tehtävien kirjoittamienn
+#Tehtävien kirjoittaminen
 - [ ] Kapple 1
 - [ ] Kapple 2
 - [ ] Kapple 3
