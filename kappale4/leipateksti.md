@@ -37,18 +37,30 @@ Kun kahteen erimassaiseen kappaleeseen vaikutetaan samalla voimalla, saa pienemp
 
 ## kolmas laki (voiman ja vastavoiman laki)
 
+Jos kappaleeseen vaikuttaa toinen kappale jollain voimalla, niin samanaikaisesti kappaleen täytyy vaikuttaa toiseen kappaleeseen yhtä suurella, mutta suunnaltaan vastakkaisella voimalla.
+
+Esimerkki.
+
+Kun ammut haulikolla, laukaus lähtee räjähdyksestä.  Ammukseen vaikuttaa voima joka on yhtä suuri, mutta suunnaltaan
+vastakkainen aseeseen vaikuttavaan ja olkapäässä tuntuvaan voimaan nähden.  
 
 # Gravitaatiolaki
 
-G = C*m*M/r^2
+F = G*m*M/r^2
+
+G = 6,6732 * 10^(-11) Nm2/kg2
+M = 5,997 * 10^24 kg  (Maan massa)
+r = 6378 km (Maapallon säde päiväntasaajalla )
 
 Esimerkki.
 
 Satelliittiaseman massa on 1000 kg eli paino 9810 N maan pinnalla.  Kuinka suuri painovoima vaikuttaa siihen kahden maanpallon säteen korkeudella maanpinnasta ?  
 
-Ratkaisu 1: Sijoitetaan kaikki muuttujat kaavaan.
+Ratkaisu 1: Sijoitetaan kaikki muuttujat gravitaatiolaki-kaavaan.
 
-Ratkaisu 3: Painovoima kolmen maapallon säteen etäisyydellä maapallon keskipisteestä on 1/ 
+Ratkaisu 2: Painovoima on käänteisesti verrannollinen etäisyyteen maapallon keskipisteestä.
+
+Kolmen maapallon säteen etäisyydellä maapallon keskipisteestä painovoima on 1/9 siitä mitä se on maapallon pinnalla.
 
 
 
