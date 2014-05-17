@@ -1,7 +1,7 @@
 #KESKEISET SISÄLLÖT
 
 * fysiikan merkitys historian eri vaiheissa ja nykyaikana
-* kokeellisuus ja mallintaminen perustana fysikaalisen tiedon rakentumisessa, mittaaminen, tulosten esittäminen ja niiden luotettavuuden arviointi
+* kokeellisuus ja mallintaminen perustana fysikaalisen tiedon rakentumisessa, mittaaminen, tulosten esittäminen ja niiden luotettavuuden arviointi sekä kokeen toistokelpoisuus
 * liikkeen kuvaamisessa tarvittavat peruskäsitteet ja liikkeen graafinen esitys
 * voima liikkeen muutoksen aiheuttajana
 * energian, erityisesti säteilyn, sitoutuminen ja vapautuminen luonnon ja ihmisen aikaansaamissa prosesseissa
