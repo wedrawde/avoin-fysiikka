@@ -4,7 +4,8 @@
 Perussuureet ovat fysiikassa ne asioiden ja esineiden mitattavat ominaisuudet, joita ei voida johtaa muista suureista. Niitä on seitsemän ja ne ovat pituus *s*, massa *m*, aika *t*, sähkövirta *I*, lämpötila *T*, ainemäärä *n* sekä valovoima *l*. Johdannaissuureita voidaan muodostaa näistä loputtomasti, esimerkiksi nopeus *v*, tiheys *ρ*, voima *F* ja valaistusvoimakkuus *lx* ovat johdannaissuureita.
 
 ##SI-yksiköt ja tärkeimmät johdannaiset (N, J, ...)
-Fysiikassa ominaisuuksien suuruuksia mitattaessa käytetään kansainvälisen yksikköjärjestelmän eli SI-järjestelmän mukaisia yksiköitä. Perusyksiköt ovat ne yksiköt, joita ei voida ilmoittaa muiden yksikköjen avulla. Ne on ilmoitettu allaolevassa taulukossa. Yleisesti käytettyjä johdannaisyksiköitä ovat esimerkiksi voiman yksikkö Newton **N**, joka voidaan ilmoittaa muodossa Kgm/s² ja energian yksikkö Joule **J**, joka voidaan kirjoittaa **Nm** eli kgm²/s². Yksikköjen tunnuksissa käytetään pieniä kirjaimia, paitsi jos yksikkö on nimetty henkilön mukaan (esim. Newton).
+Fysiikassa ominaisuuksien suuruuksia mitattaessa käytetään kansainvälisen yksikköjärjestelmän eli SI-järjestelmän mukaisia yksiköitä. Perusyksiköt ovat ne yksiköt, joita ei voida ilmoittaa muiden yksikköjen avulla. Ne on ilmoitettu allaolevassa taulukossa. Yleisesti käytettyjä johdannaisyksiköitä ovat esimerkiksi voiman yksikkö Newton **N**, joka voidaan ilmoittaa muodossa Kgm/s² ja energian yksikkö Joule **J**, joka voidaan kirjoittaa Nm eli kgm²/s². Yksikköjen tunnuksissa käytetään pieniä kirjaimia, paitsi jos yksikkö on nimetty henkilön mukaan (esim. Newton).
+  Laajassa käytössä on myös muita kuin SI-järjestelmän yksiköitä, kuten Celsiusaste, minuutti ja tunti ja lisäksi lähinnä yhdysvalloissa käytetään brittiläisen yksikköjärjestelmän perua olevia yksiköitä, kuten maili (noin 1.6km) ja pauna (noin 450g).
 
 ##7 perussuuretta, tärkeimmät johdannaiset (nopeus, voima, teho...)
 ####SI-yksiköt
