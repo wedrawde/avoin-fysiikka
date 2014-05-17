@@ -14,3 +14,22 @@ Ideat
 =====
 
 * Kirjoitelkaa ihmeessä sisällysluetteloon
+
+
+Todo
+====
+
+Kirjoita listan kohdan perään nimesi, mikäli aijot tehdä jotain kohtaa aktiivisesti.
+
+#Tekstin kirjoittaminen
+- [ ] Kapple 1  *happosade*
+- [ ] Kapple 2
+- [ ] Kapple 3
+- [ ] Kapple 4
+- [ ] Kapple 5
+- [ ] Kapple 6
+
+#Tehtävien kirjoittamienn
+- [ ] Kapple 1
+- [ ] Kapple 1
+- [ ] Kapple 1
