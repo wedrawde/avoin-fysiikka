@@ -21,8 +21,11 @@ Sähkövirta|*I*|ampeeri|**A**|Ampeeri on sellainen ajallisesti muuttumaton säh
 Ainemäärä|*n*|mooli|**mol**|Mooli on sellaisen systeemin ainemäärä, joka sisältää yhtä monta keskenään samanlaista perusosasta kuin 0,012 kilogrammassa hiili 12:ta on atomeja. Perusosaset voivat olla atomeja, molekyylejä, ioneja, elektroneja, muita hiukkasia tai sellaisten hiukkasten määriteltyjä ryhmiä
 Valovoima|*I*|kandela|**cd**|Kandela on sellaisen säteilijän valovoima, joka lähettää tiettyyn suuntaan monokromaattista 540·10^12 hertsin taajuista säteilyä ja jonka säteilyintensiteetti tähän suuntaan on 1/683 wattia steradiaania kohti 
 
+Osassa perussuureiden määritelmiä käytetään muita perussuureita, esim. metri on määritelty sekunnin avulla ja ampeeri metrin ja newtonin avulla. Perussuureiden väliset riippuvuudet näkyvät alla olevassa kaaviossa.
 #####Miten kaikki onkaan johdettu toisistaan?
 ![Kuva SI-juiduista](https://upload.wikimedia.org/wikipedia/commons/c/c8/SI_base_unit.svg)
+<!---Kuvan tekijä: http://en.wikipedia.org/wiki/User:Dono-->
+
 
 #Mittaamisesta
 
