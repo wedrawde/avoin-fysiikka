@@ -4,7 +4,7 @@
 Perussuureet ovat fysiikassa ne asioiden ja esineiden mitattavat ominaisuudet, joita ei voida johtaa muista suureista. Niitä on seitsemän ja ne ovat pituus *s*, massa *m*, aika *t*, sähkövirta *I*, lämpötila *T*, ainemäärä *n* sekä valovoima *l*. Johdannaissuureita voidaan muodostaa näistä loputtomasti, esimerkiksi nopeus *v*, tiheys *ρ*, voima *F* ja valaistusvoimakkuus *lx* ovat johdannaissuureita.
 
 ##SI-yksiköt ja tärkeimmät johdannaiset (N, J, ...)
-Fysiikassa ominaisuuksien suuruuksia mitattaessa käytetään kansainvälisen yksikköjärjestelmän eli SI-järjestelmän mukaisia yksiköitä. Perusyksiköt ovat ne yksiköt joita ei voida ilmoittaa muiden yksikköjen avulla ja ne on ilmoitettu oheisessa taulukossa. Tärkeitä johdannaisyksiköitä ovat esimerkiksi voiman yksikkö Newton, lyhenne **N**, joka voidaan ilmoittaa muodossa Kgm/s² ja energian yksikkö Joule, lyhenne **J**, joka on sama kuin **Nm** eli kgm²/s².
+Fysiikassa ominaisuuksien suuruuksia mitattaessa käytetään kansainvälisen yksikköjärjestelmän eli SI-järjestelmän mukaisia yksiköitä. Perusyksiköt ovat ne yksiköt joita ei voida ilmoittaa muiden yksikköjen avulla ja ne on ilmoitettu oheisessa taulukossa. Yleisesti käytettyjä johdannaisyksiköitä ovat esimerkiksi voiman yksikkö Newton, lyhenne **N**, joka voidaan ilmoittaa muodossa Kgm/s² ja energian yksikkö Joule, lyhenne **J**, joka on sama kuin **Nm** eli kgm²/s².
 
 ##7 perussuuretta, tärkeimmät johdannaiset (nopeus, voima, teho...)
 ####SI-yksiköt
