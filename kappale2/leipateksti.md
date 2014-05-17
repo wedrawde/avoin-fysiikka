@@ -1,7 +1,8 @@
-#Yksiköt ja suureet
+#Suureet ja yksiköt
 
 ##SI-yksiköt ja tärkeimmät johdannaiset (N, J, ...)
-Fysiikassa käytettävät yksiköt jaetaan SI-järjestelmän perusyksiköihin, sekä niistä johdettuihin johdannaisyksikköihin. Perusyksiköt ovat y
+Fysiikassa käytettävät yksiköt jaetaan SI-järjestelmän perusyksiköihin, sekä niistä johdettuihin johdannaisyksikköihin. Perusyksiköt ovat ne yksiköt, joita ei voida esittää muiden yksiköiden avulla. 
+
 
 ##7 perussuuretta, tärkeimmät johdannaiset (nopeus, voima, teho...)
 ####SI-yksiköt
