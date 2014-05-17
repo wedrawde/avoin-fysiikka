@@ -1,7 +1,7 @@
 #KESKEISET SISÄLLÖT
 
 * fysiikan merkitys historian eri vaiheissa ja nykyaikana
-* kokeellisuus ja mallintaminen perustana fysikaalisen tiedon rakentumisessa, mittaaminen, tulosten esittäminen ja niiden luotettavuuden arviointi sekä kokeen toistokelpoisuus
+* kokeellisuus ja mallintaminen perustana fysikaalisen tiedon rakentumisessa, mittaaminen, tulosten esittäminen ja niiden luotettavuuden arviointi sekä kokeen tulosten toistokelpoisuus
 * liikkeen kuvaamisessa tarvittavat peruskäsitteet ja liikkeen graafinen esitys
 * voima liikkeen muutoksen aiheuttajana
 * energian, erityisesti säteilyn, sitoutuminen ja vapautuminen luonnon ja ihmisen aikaansaamissa prosesseissa
@@ -18,12 +18,13 @@
 * Luonnontiede ja teknologia tarvitsevat toisiaan
 * Maailmankuva muuttuu
 * Fysiikan osa-alueet
+* Perustuu havaintoihin maailmasta
 
 
 #Ekalle kappaleelle:
 fysiikan merkitys historian eri vaiheissa ja nykyaikana
 
-1. Mitä on fysiikka, sovelluksia ja yhteiskunnalliset vaikutukset, Tenkiikka/teknologia
+1. Mitä on fysiikka, sovelluksia ja yhteiskunnalliset vaikutukset, Tekniikka/teknologia
 4. Historiaa
 5. Osa-alueet lukiofysiikassa
 
