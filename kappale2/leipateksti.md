@@ -27,9 +27,10 @@ Osa perussuureista on määritelty muiden perussuureiden avulla, esim. metri on 
 <!---Kuvan tekijä: http://en.wikipedia.org/wiki/User:Dono-->
 
 #Mittaamisesta
-Luonnonilmiöitä tutkittaessa käytetään erilaisia tarkoitusta varten tehtyjä mittavälineitä kuten viivoittimia, vaakoja, kelloja ja lämpömittareita. Suureita mitattaessa on otettava huomioon että mittaustarkkuus on riittävä, jotta saadaan riittävän tarkka mittaustulos. Esimerkiksi vaaoissa
+Luonnonilmiöitä tutkittaessa käytetään erilaisia tarkoitusta varten tehtyjä mittavälineitä kuten viivoittimia, vaakoja, kelloja ja lämpömittareita. Mittaamiseen pitää aina valita sekä tarkoitukseen suunniteltu, että oikealla tarkkuudella toimiva mittari. Tavallisella henkilövaa'alla ei voi punnita autoa eikä rullamittaa kannata käyttää hiuksen paksuuden selvittämiseen.
 
 ##virhe ja sen merkitys tulokseen
+Jotta saaduista mittaustuloksista voidaan tehdä johtopäätöksiä, on varmistuttava siitä että tulokset ovat 
 
 ##virhetyypit
 
