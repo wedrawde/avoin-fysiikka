@@ -3,7 +3,7 @@ energian, erityisesti säteilyn, sitoutuminen ja vapautuminen luonnon ja ihmisen
 #Mitä on energia
 ##potentiaalienergia
 
-Voimakentässä, kuten maan painovoimakentässä kappaleilla on potentiaalienergia, joka riippuu niiden korkeudesta maapallon pintaan nähden.  Kun nostan kappaleen joka painaa 20 Newtonia yhden metrin teen työtä painovoimakenttää vastaan ja tekemäni työ on W=F*s.  Vastaavasti painovoima tekee työtä kun se kiihdyttää kappaleen ja se putoaa yhden metrin korkeudelta maahan.  
+Voimakentässä, kuten maan painovoimakentässä kappaleilla on potentiaalienergia, joka riippuu kappaleiden välisestä etäisyydestä tai siis jos gravitaatio on maapallon ja kappaleen välillä oleva vuorovaikutus kappaleen  korkeudesta maapallon pintaan nähden.  Kun nostan kappaleen joka painaa 20 Newtonia yhden metrin teen työtä painovoimakenttää vastaan ja tekemäni työ on W=F*s.  Vastaavasti painovoima tekee työtä kun se kiihdyttää kappaleen ja se putoaa yhden metrin korkeudelta maahan.  
 
 ##mekaaninen
 Jousienergia tai liike-energia.
