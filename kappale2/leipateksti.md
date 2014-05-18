@@ -30,9 +30,10 @@ Osa perussuureista on määritelty muiden perussuureiden avulla, esim. metri on 
 Luonnonilmiöitä tutkittaessa käytetään erilaisia tarkoitusta varten tehtyjä mittavälineitä kuten viivoittimia, vaakoja, kelloja ja lämpömittareita. Mittaamiseen pitää aina valita sekä tarkoitukseen suunniteltu, että oikealla tarkkuudella toimiva mittari. Tavallisella henkilövaa'alla ei voi punnita autoa eikä rullamittaa kannata käyttää hiuksen paksuuden selvittämiseen.
 
 ##virhe ja sen merkitys tulokseen
-Jotta saaduista mittaustuloksista voidaan tehdä johtopäätöksiä, on varmistuttava siitä että mahdolliset mittausvirheet ovat niin pieniä, että ne eivät juuri vaikuta saatuihin arvoihin. Toisin sanoen mittaustarkkuuden on oltava sellainen että pienin mitattavissa oleva yksikkö on hyvin pieni itse mittaustulokseen verrattuna. Esimerkiksi ihmisen painon voi vallan hyvin mitata henkilövaa'alla joka ilmoittaa tuloksen 0.2kg tarkkuudella, sillä jos vaaka näyttää lukemaa 65.2kg, niin tiedetään että henkilön paino on todellisuudessa välillä 65.1kg-65.3kg, mikä riittää kertomaan onko ruokavaliota syytä muuttaa. On syytä huoamata, että 
+Jotta saaduista mittaustuloksista voidaan tehdä johtopäätöksiä, on varmistuttava siitä että mahdolliset mittausvirheet ovat niin pieniä, että ne eivät juuri vaikuta saatuihin arvoihin. Toisin sanoen mittaustarkkuuden on oltava sellainen että pienin mitattavissa oleva yksikkö on hyvin pieni itse mittaustulokseen verrattuna. Esimerkiksi ihmisen painon voi vallan hyvin mitata henkilövaa'alla joka ilmoittaa tuloksen 0.2kg tarkkuudella, sillä jos vaaka näyttää lukemaa 65.2 kg, niin tiedetään että henkilön paino on todellisuudessa välillä 65.1-65.3 kg, mikä riittää kertomaan onko ruokavaliota syytä muuttaa. On syytä huomata, että määrä, jolla todellinen arvo voi poiketa mittaustuloksesta, on puolet kyseisen laitteen mittaustarkkuudesta.
 
 ##virhetyypit
+Mittauksia tehdessä voi sattua monenlaisia virheitä. Virheet voivat johtua mittaajasta itsestään, mittausjärjestelyistä tai mittausvälineiden epätarkkuudesta. Esimerkiksi tietokoneen antamaa dataa voidaan vahingossa lukea väärin tai juoksijan 100 m:n aikaa mitattaessa voi ajanottaja painaa nappia liian aikaisin.<!---huono esimerkki--> Tällaista virhettä, joka 
 
 ##tarkkuus
 
