@@ -19,6 +19,6 @@
  * 
  
 4. Taulu on levossa seinällä. Se on ripustettu vasemmasta ja oikeasta yläreunasta vajerilla naulan varassa.
-   Taulun yläreunan ja ripustusköyden välinen kulma on 27 astetta. Onko vajerin jännitys suurempi, pienempi tai yhtäsuuri kuin paino ?
+   Taulun yläreunan ja ripustusköyden välinen kulma on 27 astetta. Onko vajerin jännitys suurempi, pienempi tai yhtäsuuri kuin paino ?  ( kuva taulusta jossa kaveri nukkuu sängyssä. )
 
-  # kuva taulusta jossa kaveri nukkuu sängyssä.
+
