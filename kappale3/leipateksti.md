@@ -16,11 +16,15 @@ Keskinopeuden voikin laskea yksinkertaisesti katsomalla paikka ajan funktiona -k
 
 *Kuvaaja, missä lasketaan keskinopeus*
 ##hetkellinen nopeus
+Hetkellisellä nopeudella tarkoitetaan, nimen mukaisesti, kappaleen sen hetkistä nopeutta. Tätä voi ajatella siten, että otamme äskeisen tavan laskea keskinopeus ja pienennämme väliä äärimmäisen pieneksi. Tällöin liikumme hyvin lyhyitä matkoja hyvin lyhyessä ajassa, mutta saamme silti todellisen nopeuden selville.
 
+*Taas kuvaaja, nyt sitä bojoing-tangettia*
 ##tasainen liike
+Tasaisella liikkeellä tarkoitetaan liikettä, missä ei ole kiihtyvyyttä. Eli jos kappale liikkuu 4 metriä sekuntissa, ei tämä muutu miksikään - muulloinhan kappale kiihtyisi. Myös paikallaan olevan kappaleen voidaan katsoa olevan tasaisessa liikkeessä. 
+
+Tasaisessa liikkeessä olevan kappaleen kulkema matka on helppo laskea paitsi graafisesti integroimalla, mutta myös intuitiivisella kertolaskulla ilman kuvaajaa. Jos kappale liikkuu 10 metriä sekuntissa viiden sekuntin ajan, on se liikkunut 50 metriä.
 
 ##nopeuden laskeminen tasaisessa liikkeessä jne
-
 
 #muuttuva liike, kiihtyvyys
 
