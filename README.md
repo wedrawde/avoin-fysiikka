@@ -40,3 +40,4 @@ Kirjoita listan kohdan perään nimesi, mikäli aijot tehdä jotain kohtaa aktii
 #Muut asiat
 - [ ] Kielenhuolto *tuskin pääpointtina vielä :D*
 - [ ] Kuvituskuvien ottaminen/miettiminen
+- [ ] Lisäkappaleet. Mukaan voi lisätä muita mielenkiintoisia aiheita opetussuunnitelman ulkopuolelta.
