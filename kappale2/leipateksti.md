@@ -34,7 +34,7 @@ Jotta saaduista mittaustuloksista voidaan tehdä johtopäätöksiä, on varmistu
 
 ##virhetyypit
 Mittauksia tehdessä voi sattua monenlaisia virheitä. Virheet voivat johtua mittaajasta itsestään, mittausjärjestelyistä tai mittausvälineiden epätarkkuudesta. Esimerkiksi tietokoneen antamaa dataa voidaan vahingossa lukea väärin tai juoksijan 100 m:n aikaa mitattaessa voi ajanottaja painaa nappia vahingossa liian aikaisin. Tällaista virhettä, joka aiheutuu mittaajan erheestä ja ei luultavasti toistu seuraavilla mittauskerroilla kutsutaan **karkeaksi virheeksi** ja sitä voi välttää toimimalla huolellisesti.
-<!---juoksija on huono esimerkki--> 
+<!---juoksija on huono esimerkki, keksiikö joku paremman?--> 
 Monesti virhe aiheutuu itse mittausjärjestelyistä, esimerkiksi virtapiirin vastusta mitattaessa kalibroimaton yleismittari saattaa antaa liian suuria lukemia. Tällaista jokaisessa mittauksessa esiintyvää, mittausjärjestelyistä johtuvaa virhettä sanotaan **systemaattiseksi virheeksi** ja sitä voi välttää miettimällä huolella mitkä kaikki tekijät voivat vaikuttaa mittaukseen ja voiko epätarkkuustekijöistä päästä eroon. Laitteet kannattaa kalibroida ja joskus lämpötila ja jopa valon määrä pitää ottaa huomioon.
 
 ##tarkkuus
@@ -42,12 +42,13 @@ Mittauksista saaduilla arvoilla tehtyjen laskujen tulokset pyöristetään lopuk
 <!---Tähän esimerkki merkitsevistä numeroista--> 
 
 #Tulosten esityksestä
-Fysiikan tutkimuksessa kokeista saadaan monesti tuloksina pitkiä rimpsuja dataa, lukuja ja lukupareja kuten sijaintikoordinaatteja tai mitattuja lämpötiloja kunakin ajanhetkenä. Kuitenkin ihminen on aika huono lukemaan näitä rimpsuja ja merkityksellisten yhteyksien löytäminen niistä on hankalaa.
+Fysiikan tutkimuksessa kokeista saadaan monesti tuloksina pitkiä rimpsuja dataa, lukuja ja lukupareja kuten sijaintikoordinaatteja tai mitattuja lämpötiloja kunakin ajanhetkenä. Kuitenkin ihminen on aika huono lukemaan näitä rimpsuja ja merkityksellisten yhteyksien löytäminen niistä on sellaisenaan hankalaa.
 <!---Tähän kuva rimpsusta dataa--> 
-Tulosten tulkitseminen on huomattavasti helpompaa kun ne esitetään pisteinä koordinaatistossa, jossa lukupareja kuvaavien pisteiden voidaan huomata muodostavan, riippuen suureiden suhteista toisiinsa, erilaisia geometrisia käyriä.
+Tulosten tulkitseminen helpottuu huomattavasti kun ne esitetään pisteinä koordinaatistossa, jossa lukupareja kuvaavien pisteiden huomataan tällöin muodostavan, riippuen suureiden suhteista toisiinsa, erilaisia geometrisia käyriä.
 
-Piirrettävän koordinaatiston akselit kannattaa valita niin, että kaikki mittausarvot mahtuvat akseleiden päiden väliin. Jos kaikki suureet ovat positiivisia, piirretään akselit yleensä alkamaan origosta. Esimerksi 
-<!---Olen huomannut että löytyy lukiolaisia joilla ei ole mitäön käsitystä mitä esimerkiksi funktion kuvaaja oikein tarkoittaa (pistepareja kuvattuna yhtenä pisteenä), eivät vain hahmota mikä on koordinaatiosto. Voisin kuvitella että sama koskee fysiikassa havaintoaineistoon sovitettua käyrää. Mielestöni tämän selventäminen olisi tärkeää, joten jos joku saa koordinaatiston "selitettyä" selkeästi, niin se olisi hienoa -Joel --> 
+Piirrettävän koordinaatiston akselit kannattaa valita niin, että kaikki mittausarvot mahtuvat akseleiden päiden määräämille väleille, mutta tilaa ei jää juuri yli. Jos kaikki arvot ovat positiivisia, piirretään akselit yleensä alkamaan origosta (0,0). Tavoitteena on, että hukkatila pidettäisiin minimissä ja kuvaajasta tulisi tarpeeksi iso, jotta sitä olisi helppo lukea.
+<!---Olen huomannut että löytyy lukiolaisia joilla ei ole mitäön käsitystä mitä esimerkiksi funktion kuvaaja oikein tarkoittaa (pistepareja kuvattuna yksittäisinä pisteinä), eivät vain hahmota mikä on koordinaatisto. Voisin kuvitella että sama koskee fysiikassa havaintoaineistoon sovitettua käyrää. Mielestöni tämän selventäminen olisi tärkeää, joten jos joku saisi koordinaatiston "selitettyä" hyvin, niin se olisi hienoa -Joel --> 
+<!---Tähän Erkki Esimerkki--> 
 
 ##analysointi
 
@@ -57,4 +58,4 @@ Piirrettävän koordinaatiston akselit kannattaa valita niin, että kaikki mitta
 
 ##luotettavuuden arviointi
 
-<!---varmaankin lisää tekstiä tarvitaan, lisäilkää ihmeessä jos tulee jotain hyvää mieleen--> 
+<!---varmaankin lisää täytettä tarvitaan, lisäilkää ihmeessä jos tulee jotain hyvää mieleen--> 
