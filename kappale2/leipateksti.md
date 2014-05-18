@@ -33,14 +33,18 @@ Luonnonilmiöitä tutkittaessa käytetään erilaisia tarkoitusta varten tehtyj�
 Jotta saaduista mittaustuloksista voidaan tehdä johtopäätöksiä, on varmistuttava siitä että mahdolliset mittausvirheet ovat niin pieniä, että ne eivät juuri vaikuta saatuihin arvoihin. Toisin sanoen mittaustarkkuuden on oltava sellainen että pienin mitattavissa oleva yksikkö on hyvin pieni itse mittaustulokseen verrattuna. Esimerkiksi ihmisen painon voi vallan hyvin mitata henkilövaa'alla joka ilmoittaa tuloksen 0.2kg tarkkuudella, sillä jos vaaka näyttää lukemaa 65.2 kg, niin tiedetään että henkilön paino on todellisuudessa välillä 65.1-65.3 kg, mikä riittää kertomaan onko ruokavaliota syytä muuttaa. On syytä huomata, että määrä, jolla todellinen arvo voi poiketa mittaustuloksesta, on puolet kyseisen laitteen mittaustarkkuudesta.
 
 ##virhetyypit
-Mittauksia tehdessä voi sattua monenlaisia virheitä. Virheet voivat johtua mittaajasta itsestään, mittausjärjestelyistä tai mittausvälineiden epätarkkuudesta. Esimerkiksi tietokoneen antamaa dataa voidaan vahingossa lukea väärin tai juoksijan 100 m:n aikaa mitattaessa voi ajanottaja painaa nappia liian aikaisin. Tällaista virhettä, joka aiheutuu mittaajan vahingosta ja ei luultavasti toistu seuraavilla mittauskerroilla kutsutaan **karkeaksi virheeksi**.
-<!---juoksija huono esimerkki--> 
-Monesti virhe aiheutuu itse mittausjärjestelyistä, esimerkiksi ihmisten painot 
+Mittauksia tehdessä voi sattua monenlaisia virheitä. Virheet voivat johtua mittaajasta itsestään, mittausjärjestelyistä tai mittausvälineiden epätarkkuudesta. Esimerkiksi tietokoneen antamaa dataa voidaan vahingossa lukea väärin tai juoksijan 100 m:n aikaa mitattaessa voi ajanottaja painaa nappia vahingossa liian aikaisin. Tällaista virhettä, joka aiheutuu mittaajan erheestä ja ei luultavasti toistu seuraavilla mittauskerroilla kutsutaan **karkeaksi virheeksi** ja sitä voi välttää toimimalla huolellisesti.
+<!---juoksija on huono esimerkki--> 
+Monesti virhe aiheutuu itse mittausjärjestelyistä, esimerkiksi virtapiirin vastusta mitattaessa kalibroimaton yleismittari saattaa antaa liian suuria lukemia. Tällaista jokaisessa mittauksessa esiintyvää, mittausjärjestelyistä johtuvaa virhettä sanotaan **systemaattiseksi virheeksi** ja sitä voi välttää miettimällä huolella mitkä kaikki tekijät voivat vaikuttaa mittaukseen ja voiko epätarkkuustekijöistä päästä eroon. Laitteet kannattaa kalibroida ja joskus lämpötila ja jopa valon määrä pitää ottaa huomioon.
 
 ##tarkkuus
-
+Mittauksista saaduilla arvoilla tehtyjen laskujen tulokset pyöristetään lopuksi epätarkimman lähtöarvon tarkkuuteen eli tuloksessa pitää olla yhtä monta merkitsevää numeroa kuin siinä laskussa käytettävässä arvossa, jossa niitä oli kaikkein vähiten. Merkitseviä numeroita ovat kokonaisluvuissa kaikki muut numerot paitsi lopussa olevat nollat ja desimaaliluvuissa kaikki muut paitsi alussa olevat nollat. Tämä voi aluksi vaikuttaa hankalalta, mutta merkitsevät numerot oppii tehtäviä tekemällä lukemaan nopeasti.
+<!---Esimerkki merkitsevistä numeroista--> 
 
 #Tulosten esityksestä
+Fysiikan tutkimuksessa kokeista saadaan monesti tuloksina pitkiä rimpsuja dataa, lukuja ja lukupareja, kuten sijaintikoordinaatteja tai mitattuja lämpötiloja kunakin ajanhetkenä. Kuitenkin ihminen on aika huono lukemaan näitä rimpsuja ja merkityksellisien yhteyksien löytäminen niistä on hankalaa.
+<!---Tähän kuva rimpsusta dataa--> 
+
 
 ##analysointi
 
