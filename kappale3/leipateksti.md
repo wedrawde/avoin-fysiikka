@@ -8,9 +8,13 @@ Graafinen derivointi ja integrointi ovat tehokkaita tapoja lukea kuvaajasta tiet
 #tasainen liike, nopeus
 
 ##nopeus vs vauhti
-
+Vaikka nopeus ja vauhti sanoina arkikielessä sekoitetaan yleensä keskenään, on niillä fysiikassa suuri ero. Vauhti on *skalaari*, eli sillä on vain jokin lukuarvo. Esimerkiksi auton mittari kertoo hetkellisen vauhdin. Nopeudella puolestaan on myös suunta, eli siinä on enemmän tietoa. Tälläistä matemaattista oliota kutsutaan *vektoriksi*. Vaikka ero saattaa kuulostaa pieneltä, on sillä suuri merkitys. Vektorien taikaan tutustutaan paremmin kurssilla FY4.
 ##keskinopeus
+Keskinopeudella tarkoitetaan kahden pisteen välistä matkaa jaettuna siihen kuluneella ajalla. Esimerkiksi 10 000 metrin juoksia, joka juoksee radan ympäri tasan 25 kertaa puolessa tunnissa on liikkunut keskinopeudella 0km/h, sillä erotus lähdön ja maalin välillä on nolla metriä.
 
+Keskinopeuden voikin laskea yksinkertaisesti katsomalla paikka ajan funktiona -kuvaajalta kaksi pistettä ja piirtää niiden välille suoran ja tutkimalla suoran kulmakerrointa. Tälläistä suoraa kutsutaan sekantiksi.
+
+*Kuvaaja, missä lasketaan keskinopeus*
 ##hetkellinen nopeus
 
 ##tasainen liike
