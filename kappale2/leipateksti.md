@@ -39,12 +39,15 @@ Monesti virhe aiheutuu itse mittausjärjestelyistä, esimerkiksi virtapiirin vas
 
 ##tarkkuus
 Mittauksista saaduilla arvoilla tehtyjen laskujen tulokset pyöristetään lopuksi epätarkimman lähtöarvon tarkkuuteen eli tuloksessa pitää olla yhtä monta merkitsevää numeroa kuin siinä laskussa käytettävässä arvossa, jossa niitä oli kaikkein vähiten. Merkitseviä numeroita ovat kokonaisluvuissa kaikki muut numerot paitsi lopussa olevat nollat ja desimaaliluvuissa kaikki muut paitsi alussa olevat nollat. Tämä voi aluksi vaikuttaa hankalalta, mutta merkitsevät numerot oppii tehtäviä tekemällä lukemaan nopeasti.
-<!---Esimerkki merkitsevistä numeroista--> 
+<!---Tähän esimerkki merkitsevistä numeroista--> 
 
 #Tulosten esityksestä
-Fysiikan tutkimuksessa kokeista saadaan monesti tuloksina pitkiä rimpsuja dataa, lukuja ja lukupareja, kuten sijaintikoordinaatteja tai mitattuja lämpötiloja kunakin ajanhetkenä. Kuitenkin ihminen on aika huono lukemaan näitä rimpsuja ja merkityksellisien yhteyksien löytäminen niistä on hankalaa.
+Fysiikan tutkimuksessa kokeista saadaan monesti tuloksina pitkiä rimpsuja dataa, lukuja ja lukupareja kuten sijaintikoordinaatteja tai mitattuja lämpötiloja kunakin ajanhetkenä. Kuitenkin ihminen on aika huono lukemaan näitä rimpsuja ja merkityksellisten yhteyksien löytäminen niistä on hankalaa.
 <!---Tähän kuva rimpsusta dataa--> 
+Tulosten tulkitseminen on huomattavasti helpompaa kun ne esitetään pisteinä koordinaatistossa, jossa lukupareja kuvaavien pisteiden voidaan huomata muodostavan, riippuen suureiden suhteista toisiinsa, erilaisia geometrisia käyriä.
 
+Piirrettävän koordinaatiston akselit kannattaa valita niin, että kaikki mittausarvot mahtuvat akseleiden päiden väliin. Jos kaikki suureet ovat positiivisia, piirretään akselit yleensä alkamaan origosta. Esimerksi 
+<!---Olen huomannut että löytyy lukiolaisia joilla ei ole mitäön käsitystä mitä esimerkiksi funktion kuvaaja oikein tarkoittaa (pistepareja kuvattuna yhtenä pisteenä), eivät vain hahmota mikä on koordinaatiosto. Voisin kuvitella että sama koskee fysiikassa havaintoaineistoon sovitettua käyrää. Mielestöni tämän selventäminen olisi tärkeää, joten jos joku saa koordinaatiston "selitettyä" selkeästi, niin se olisi hienoa -Joel --> 
 
 ##analysointi
 
@@ -53,3 +56,5 @@ Fysiikan tutkimuksessa kokeista saadaan monesti tuloksina pitkiä rimpsuja dataa
 ##taulukot
 
 ##luotettavuuden arviointi
+
+<!---varmaankin lisää tekstiä tarvitaan, lisäilkää ihmeessä jos tulee jotain hyvää mieleen--> 
