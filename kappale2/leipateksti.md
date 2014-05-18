@@ -34,8 +34,8 @@ Jotta saaduista mittaustuloksista voidaan tehdä johtopäätöksiä, on varmistu
 
 ##virhetyypit
 Mittauksia tehdessä voi sattua monenlaisia virheitä. Virheet voivat johtua mittaajasta itsestään, mittausjärjestelyistä tai mittausvälineiden epätarkkuudesta. Esimerkiksi tietokoneen antamaa dataa voidaan vahingossa lukea väärin tai juoksijan 100 m:n aikaa mitattaessa voi ajanottaja painaa nappia liian aikaisin. Tällaista virhettä, joka aiheutuu mittaajan vahingosta ja ei luultavasti toistu seuraavilla mittauskerroilla kutsutaan **karkeaksi virheeksi**.
-Jos virhe aiheutuu itse mittausjärjestelyistä, esimerkiksi
 <!---juoksija huono esimerkki--> 
+Monesti virhe aiheutuu itse mittausjärjestelyistä, esimerkiksi ihmisten painot 
 
 ##tarkkuus
 
